@@ -93,6 +93,9 @@ export default class {
     }
     this.alpha = alpha;
   }
+  getKnownHops() {
+    return knownHopsAlpha;
+  }
   getAlpha() {
     return this.alpha;
   }
