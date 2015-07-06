@@ -1,6 +1,6 @@
 {
   "name": "hops-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A es6 hops module for use in beer brewing.",
   "main": "index.js",
   "scripts": {
